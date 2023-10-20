@@ -14,6 +14,7 @@ body {
     width: 50%;
     margin: auto;
 }
+
 .self{
     text-align: center;
     border: 2px solid whitesmoke;
@@ -21,10 +22,12 @@ body {
     margin: auto;
     padding:0;
 }
+
 h1{
     color: aliceblue;
     text-align: center;
 }
+
 h3{
     color: aliceblue;
 }
