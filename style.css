@@ -12,16 +12,15 @@ body {
 .container{
     text-align: center;
     width: 50%;
-    height: 50%;
     margin: auto;
 }
 .self{
     text-align: center;
     border: 2px solid whitesmoke;
     width: 50%;
-    height: 50%;
     margin: auto;
-    padding:center;
+    padding:0;
+    justify-content: center;
 }
 h1{
     color: aliceblue;
