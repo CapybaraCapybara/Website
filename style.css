@@ -1,5 +1,5 @@
 body {
-    background-image: url(bg.jpg);
+    background-image: url(bg.jpeg)
 }
 
 .center{
@@ -20,7 +20,6 @@ body {
     width: 50%;
     margin: auto;
     padding:0;
-    justify-content: center;
 }
 h1{
     color: aliceblue;
